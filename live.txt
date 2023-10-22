@@ -5,6 +5,7 @@
 亞洲旅遊台,http://103.45.68.47/gy/gy555/xsj.php?id=asia-travel
 美食星球頻道,http://103.45.68.47/gy/gy555/xsj.php?id=food-planet
 EYE 旅遊台,http://103.45.68.47/gy/gy555/xsj.php?id=eye-travel
+##
 ##新聞頻道##
 TVBS新聞台,http://103.45.68.47/gy/gy555/xsj.php?id=tvbs-news
 東森新聞,http://103.45.68.47/gy/gy555/xsj.php?id=ebc-news
@@ -18,6 +19,7 @@ TVBS新聞台,http://103.45.68.47/gy/gy555/xsj.php?id=tvbs-news
 寰宇新聞台,http://103.45.68.47/gy/gy555/xsj.php?id=global-news
 鏡新聞,http://103.45.68.47/gy/gy555/xsj.php?id=mnews
 壹新聞 HD,http://103.45.68.47/gy/gy555/xsj.php?id=nexttv
+##
 ##綜藝##
 TVBS HD,http://103.45.68.47/gy/gy555/xsj.php?id=tvbs-hd
 TVBS歡樂台,http://103.45.68.47/gy/gy555/xsj.php?id=tvbs-huanle
@@ -35,6 +37,7 @@ TVBS歡樂台,http://103.45.68.47/gy/gy555/xsj.php?id=tvbs-huanle
 ELTA綜合,http://103.45.68.47/gy/gy555/xsj.php?id=elta-tv
 ELTA影劇,http://103.45.68.47/gy/gy555/xsj.php?id=elta-drama
 EYE戲劇台,http://103.45.68.47/gy/gy555/xsj.php?id=eye-drama
+##
 ##人文##
 國家地理,http://103.45.68.47/gy/gy555/xsj.php?id=natgeo
 國家地理野生頻道,http://103.45.68.47/gy/gy555/xsj.php?id=natgeo-wild
@@ -45,6 +48,7 @@ DMAX,http://103.45.68.47/gy/gy555/xsj.php?id=dmax
 探索亞洲頻道,http://103.45.68.47/gy/gy555/xsj.php?id=discovery-asia
 TLC 旅遊生活頻道,http://103.45.68.47/gy/gy555/xsj.php?id=tlc
 MTV頻道,http://103.45.68.47/gy/gy555/xsj.php?id=mtv
+##
 ##三台##
 台視,http://103.45.68.47/gy/gy555/xsj.php?id=ttv
 中視,http://103.45.68.47/gy/gy555/xsj.php?id=ctv
@@ -54,6 +58,7 @@ MTV頻道,http://103.45.68.47/gy/gy555/xsj.php?id=mtv
 公視3台,http://103.45.68.47/gy/gy555/xsj.php?id=pts3
 大愛一台,http://103.45.68.47/gy/gy555/xsj.php?id=daai1
 大愛二台,http://103.45.68.47/gy/gy555/xsj.php?id=daai2
+##
 ##體育頻道##
 緯來體育,http://103.45.68.47/gy/gy555/xsj.php?id=videoland-sport
 ELEVEN體育-1,http://103.45.68.47/gy/gy555/xsj.php?id=eleven-sport1
@@ -67,6 +72,7 @@ ELEVEN體育-2,http://103.45.68.47/gy/gy555/xsj.php?id=eleven-sport2
 ELTA體育-1,http://103.45.68.47/gy/gy555/xsj.php?id=elta-sport1
 ELTA體育-2,http://103.45.68.47/gy/gy555/xsj.php?id=elta-sport2
 ELTA體育-3,http://103.45.68.47/gy/gy555/xsj.php?id=elta-sport3
+##
 ##電影頻道##
 HBO,http://103.45.68.47/gy/gy555/xsj.php?id=hbo-hd
 東森電影,http://103.45.68.47/gy/gy555/xsj.php?id=ebc-movie
@@ -81,6 +87,7 @@ HBO,http://103.45.68.47/gy/gy555/xsj.php?id=hbo-hd
 靖天電影台,http://103.45.68.47/gy/gy555/xsj.php?id=jtdy
 美亞電影台,http://103.45.68.47/gy/gy555/xsj.php?id=meiah-movies
 星衛HD電影台,http://103.45.68.47/gy/gy555/xsj.php?id=star-movies
+##
 ##卡通頻道##
 靖天卡通台,http://103.45.68.47/gy/gy555/xsj.php?id=jtkt
 Astro 小太陽,http://103.45.68.47/gy/gy555/xsj.php?id=astro-xty
