@@ -14,8 +14,7 @@
 // http://xxx/api.php/app/
 // https://xxx/xgapp.php/v2/
 // http://xxx/mogai_api.php/v1.vod
-{"name":"默认主页","url":"https://www.tegouys.com/xgapp.php/v2/"},
-{"name":"暖光影视","url":"https://app.bl210.com/api.php/v1.vod"}
+{"name":"默认主页","url":"https://www.tegouys.com/xgapp.php/v2/"}
 ],
 
 "caijizhan": [
