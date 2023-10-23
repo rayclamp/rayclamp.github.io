@@ -4,7 +4,7 @@
 國興衛視,http://103.45.68.47/gy/gy555/xsj.php?id=gold-sun-tv
 亞洲旅遊台,http://103.45.68.47/gy/gy555/xsj.php?id=asia-travel
 美食星球頻道,http://103.45.68.47/gy/gy555/xsj.php?id=food-planet
-EYE 旅遊台,http://103.45.68.47/gy/gy555/xsj.php?id=eye-travel
+EYE旅遊台,http://103.45.68.47/gy/gy555/xsj.php?id=eye-travel
 ##
 ##新聞頻道##
 TVBS新聞台,http://103.45.68.47/gy/gy555/xsj.php?id=tvbs-news
@@ -18,10 +18,10 @@ TVBS新聞台,http://103.45.68.47/gy/gy555/xsj.php?id=tvbs-news
 非凡新聞,http://103.45.68.47/gy/gy555/xsj.php?id=ustv-news
 寰宇新聞台,http://103.45.68.47/gy/gy555/xsj.php?id=global-news
 鏡新聞,http://103.45.68.47/gy/gy555/xsj.php?id=mnews
-壹新聞 HD,http://103.45.68.47/gy/gy555/xsj.php?id=nexttv
+壹新聞,http://103.45.68.47/gy/gy555/xsj.php?id=nexttv
 ##
 ##綜藝##
-TVBS HD,http://103.45.68.47/gy/gy555/xsj.php?id=tvbs-hd
+TVBSHD,http://103.45.68.47/gy/gy555/xsj.php?id=tvbs-hd
 TVBS歡樂台,http://103.45.68.47/gy/gy555/xsj.php?id=tvbs-huanle
 緯來戲劇台,http://103.45.68.47/gy/gy555/xsj.php?id=videoland-drama
 八大第一台,http://103.45.68.47/gy/gy555/xsj.php?id=gtv27
@@ -33,7 +33,7 @@ TVBS歡樂台,http://103.45.68.47/gy/gy555/xsj.php?id=tvbs-huanle
 中天綜合台,http://103.45.68.47/gy/gy555/xsj.php?id=ctitv36
 中天亞洲台,http://103.45.68.47/gy/gy555/xsj.php?id=cti-asia
 中天娛樂台,http://103.45.68.47/gy/gy555/xsj.php?id=ctitv39
-東森超視 HD,http://103.45.68.47/gy/gy555/xsj.php?id=ebc-supertv
+東森超視,http://103.45.68.47/gy/gy555/xsj.php?id=ebc-supertv
 ELTA綜合,http://103.45.68.47/gy/gy555/xsj.php?id=elta-tv
 ELTA影劇,http://103.45.68.47/gy/gy555/xsj.php?id=elta-drama
 EYE戲劇台,http://103.45.68.47/gy/gy555/xsj.php?id=eye-drama
@@ -46,13 +46,13 @@ EYE戲劇台,http://103.45.68.47/gy/gy555/xsj.php?id=eye-drama
 DMAX,http://103.45.68.47/gy/gy555/xsj.php?id=dmax
 探索科學頻道,http://103.45.68.47/gy/gy555/xsj.php?id=discovery-sci
 探索亞洲頻道,http://103.45.68.47/gy/gy555/xsj.php?id=discovery-asia
-TLC 旅遊生活頻道,http://103.45.68.47/gy/gy555/xsj.php?id=tlc
+TLC旅遊生活頻道,http://103.45.68.47/gy/gy555/xsj.php?id=tlc
 MTV頻道,http://103.45.68.47/gy/gy555/xsj.php?id=mtv
 ##
 ##三台##
 台視,http://103.45.68.47/gy/gy555/xsj.php?id=ttv
 中視,http://103.45.68.47/gy/gy555/xsj.php?id=ctv
-中視 HD,http://103.45.68.47/gy/gy555/xsj.php?id=ctv-hd
+中視,http://103.45.68.47/gy/gy555/xsj.php?id=ctv-hd
 華視,http://103.45.68.47/gy/gy555/xsj.php?id=cts
 公視,http://103.45.68.47/gy/gy555/xsj.php?id=pts
 公視3台,http://103.45.68.47/gy/gy555/xsj.php?id=pts3
@@ -90,13 +90,13 @@ HBO,http://103.45.68.47/gy/gy555/xsj.php?id=hbo-hd
 ##
 ##卡通頻道##
 靖天卡通台,http://103.45.68.47/gy/gy555/xsj.php?id=jtkt
-Astro 小太陽,http://103.45.68.47/gy/gy555/xsj.php?id=astro-xty
+Astro小太陽,http://103.45.68.47/gy/gy555/xsj.php?id=astro-xty
 東森幼幼台,http://103.45.68.47/gy/gy555/xsj.php?id=ebc-yoyo
 MOMOTV,http://103.45.68.47/gy/gy555/xsj.php?id=momotv
 小尼克頻道,http://103.45.68.47/gy/gy555/xsj.php?id=nick-jr
 MOMO親子台,http://103.45.68.47/gy/gy555/xsj.php?id=momo-kids
 CN卡通,http://103.45.68.47/gy/gy555/xsj.php?id=cn-cartoon
-Boomerang HD,http://103.45.68.47/gy/gy555/xsj.php?id=boomerang-hd
+Boomerang,http://103.45.68.47/gy/gy555/xsj.php?id=boomerang-hd
 Animax卡通,http://103.45.68.47/gy/gy555/xsj.php?id=animax-cartoon
 尼克兒童頻道,http://103.45.68.47/gy/gy555/xsj.php?id=nickelodeon
 ##
