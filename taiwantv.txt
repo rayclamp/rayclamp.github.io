@@ -21,7 +21,7 @@ TVBS新聞台,http://103.45.68.47/gy/gy555/xsj.php?id=tvbs-news
 壹新聞,http://103.45.68.47/gy/gy555/xsj.php?id=nexttv
 ##
 ##綜藝##
-TVBSHD,http://103.45.68.47/gy/gy555/xsj.php?id=tvbs-hd
+TVBS,http://103.45.68.47/gy/gy555/xsj.php?id=tvbs-hd
 TVBS歡樂台,http://103.45.68.47/gy/gy555/xsj.php?id=tvbs-huanle
 緯來戲劇台,http://103.45.68.47/gy/gy555/xsj.php?id=videoland-drama
 八大第一台,http://103.45.68.47/gy/gy555/xsj.php?id=gtv27
@@ -52,7 +52,7 @@ MTV頻道,http://103.45.68.47/gy/gy555/xsj.php?id=mtv
 ##三台##
 台視,http://103.45.68.47/gy/gy555/xsj.php?id=ttv
 中視,http://103.45.68.47/gy/gy555/xsj.php?id=ctv
-中視,http://103.45.68.47/gy/gy555/xsj.php?id=ctv-hd
+中視HD,http://103.45.68.47/gy/gy555/xsj.php?id=ctv-hd
 華視,http://103.45.68.47/gy/gy555/xsj.php?id=cts
 公視,http://103.45.68.47/gy/gy555/xsj.php?id=pts
 公視3台,http://103.45.68.47/gy/gy555/xsj.php?id=pts3
